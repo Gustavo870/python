@@ -37,9 +37,9 @@ print (Fruta)
 
 * inputs print (cogumelo) = vai aparecer: Vermelho
 
-  ## Ordem de precedência
-
-  * 1- ()
-  * 2- ** Potencia
-  * 3- * / // % Multiplicação Divisão Divisão inteira, Resto da Divisão
-  * 4- + -
+## Ordem de precedência
+ 
+* 1- ()
+* 2- ** Potencia
+* 3- * / // % Multiplicação Divisão Divisão inteira, Resto da Divisão
+* 4- + -
