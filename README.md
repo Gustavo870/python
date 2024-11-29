@@ -36,3 +36,10 @@ print (Fruta)
 * VARIAVEL EX:cogumelo = vermelho
 
 * inputs print (cogumelo) = vai aparecer: Vermelho
+
+  ## Ordem de precedência
+
+  * 1- ()
+  * 2- ** Potencia
+  * 3- * / // % Multiplicação Divisão Divisão inteira, Resto da Divisão
+  * 4- + -
