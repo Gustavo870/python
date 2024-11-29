@@ -1,18 +1,18 @@
- str (string): Texto
+*str (string): Texto
 
-int (inteiro): Valor Númerico
+*int (inteiro): Valor Númerico
 
-float (Flutuante): Valor decimal
+*float (Flutuante): Valor decimal
 
-o - = menos
+*o - = menos
 
-o + = mais
+*o + = mais
 
-a % = sobra de uma divisão
+*a % = sobra de uma divisão
 
-o * = multiplicação
+*o * = multiplicação
 
-a / = dividir
+*a / = dividir
 
 simbolos de cada conta
 
@@ -22,17 +22,17 @@ O print só pode ser em letra minuscula
 
 
 
-Váriaveis
-serve para guardar algum valor
+##Váriaveis
+*serve para guardar algum valor
 
-Ex:Fruta = Maça
+*Ex:Fruta = Maça
 
 print (Fruta)
 
 
-inputs
-exibe uma entrada de uma variavel
+##inputs
+*exibe uma entrada de uma variavel
 
-VARIAVEL EX:cogumelo = vermelho
+*VARIAVEL EX:cogumelo = vermelho
 
-inputs print (cogumelo) = vai aparecer: Vermelho
+*inputs print (cogumelo) = vai aparecer: Vermelho
