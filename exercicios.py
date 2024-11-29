@@ -1,4 +1,4 @@
-num1 = ('Digite algo:')
+num1 = input('Digite algo:')
 print('O tipo primitivo desse valor é', type(num1))
 print('É um numero?', num1.isnumeric())
 print('Tem espaço?', num1.isspace())
